@@ -14,5 +14,5 @@
   [Linkedin](https://www.linkedin.com/)
 
   ### Languages and Tools:
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/960px-Selenium_Logo.png)](https://www.selenium.dev/)
+[Selenium](https://www.selenium.dev/)
   
