@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**abhishekom04/abhishekom04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+                             **Hey! I am Abhishek Maurya**
 
 - 🔭 I’m currently working on Automation Testing.
 - 🌱 I’m currently learning API Testing.
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software Testing and Automation.
 - 📫 How to reach me: shubhmaurya04@outlook.com
 - ⚡ Fun fact: I enjoy doing Automation Testing.
--->
