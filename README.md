@@ -1,4 +1,4 @@
-<h1 style="text-align:Right;">Hey, I'm Abhishek Maurya</h1>
+<h2 style="text-align:Right;">Hey, I'm Abhishek Maurya</h2>
 
 ### **ISTQB Certified® Tester**
 
@@ -9,3 +9,6 @@
 - 💬 Ask me about Software Testing and Automation.
 - 📫 How to reach me: shubhmaurya04@outlook.com
 - ⚡ Fun fact: I enjoy doing Automation Testing.
+
+  Connect with me
+  [Linkedin](https://www.linkedin.com/)
