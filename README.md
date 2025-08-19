@@ -14,5 +14,5 @@
   [Linkedin](https://www.linkedin.com/)
 
   ### Languages and Tools:
-[Selenium](https://www.selenium.dev/)
+  [Selenium](https://www.selenium.dev/)
   
