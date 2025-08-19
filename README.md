@@ -1,5 +1,7 @@
 # **Hey, I'm Abhishek Maurya**
 
+## **ISTQB Certified® Tester**
+
 - 🔭 I’m currently working on Automation Testing.
 - 🌱 I’m currently learning API Testing.
 - 👯 I’m looking to collaborate on Web and API Automation.
