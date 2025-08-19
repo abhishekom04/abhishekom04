@@ -1,6 +1,6 @@
-# **Hey, I'm Abhishek Maurya**
+<h1 style="text-align: center;">Hey, I'm Abhishek Maurya</h1>
 
-## **ISTQB Certified® Tester**
+### **ISTQB Certified® Tester**
 
 - 🔭 I’m currently working on Automation Testing.
 - 🌱 I’m currently learning API Testing.
