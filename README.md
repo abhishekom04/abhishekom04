@@ -10,8 +10,8 @@
 - 📫 How to reach me: shubhmaurya04@outlook.com
 - ⚡ Fun fact: I enjoy doing Automation Testing.
 
-  Connect with me:  
+  ### Connect with me:  
   [Linkedin](https://www.linkedin.com/)
 
-  Languages and Tools:
+  ### Languages and Tools:
   
