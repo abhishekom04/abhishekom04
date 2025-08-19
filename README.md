@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Hey, I'm Abhishek Maurya</h1>
+<h1 style="text-align:Right;">Hey, I'm Abhishek Maurya</h1>
 
 ### **ISTQB Certified® Tester**
 
